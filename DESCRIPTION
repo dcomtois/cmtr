@@ -1,0 +1,14 @@
+Package: commenter
+Type: Package
+Title: RStudio Addin to Comment Selection Using Custom Characters
+Version: 0.1.0
+Author: Dominic Comtois
+Maintainer: Dominic Comtois <dominic.comtois@gmail.com>
+Description: Comment Selection Using Custom Characters
+License: GPL-2
+Imports:
+  rstudioapi
+Language: en-US
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.1.1
