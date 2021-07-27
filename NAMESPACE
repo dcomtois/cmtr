@@ -2,4 +2,5 @@
 
 export(commenter)
 importFrom(rstudioapi,getActiveDocumentContext)
+importFrom(rstudioapi,insertText)
 importFrom(rstudioapi,primary_selection)
