@@ -1,5 +1,5 @@
-Name: Comment Selection  /* ... */
+Name: cmtr /* ... */
 Description: Comment / Uncomment selection using /* (...) */
-Binding: commenter
+Binding: cmtr
 Interactive: false
 
