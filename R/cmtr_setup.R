@@ -10,7 +10,8 @@
 #'   line-by-line basis (\code{FALSE}).
 #' 
 #' @export
-cmtr_setup <- function(chars=c("/*", "*/"), block = TRUE) {
+cmtr_setup <- function(chars=c("/*", "*/"),
+                       block = TRUE) {
   if (length(names(match.call())) == 0) { 
     getOption("cmtr")
   } else {  

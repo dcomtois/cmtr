@@ -1,5 +1,5 @@
 Name: Comment / Uncomment Selection
 Description: Comment / Uncomment selection Using /* (...) */ Or Other Characters
-Binding: cmtr
+Binding: cmt
 Interactive: false
 
